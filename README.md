@@ -1,7 +1,7 @@
 # Combined-Wordlists
 A combined wordlists for files and directory discovery
 
-current count (TBE): 829522
+current count (TBE): 829,522
 
 This a combined wordlist of:
 * [nullenc0de](https://gist.githubusercontent.com/nullenc0de/96fb9e934fc16415fbda2f83f08b28e7/raw/146f367110973250785ced348455dc5173842ee4/content_discovery_nullenc0de.txt)
