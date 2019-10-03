@@ -12,6 +12,8 @@ This a combined wordlist of:
 * dirb wordlist
 * dirbuster wordlist
 
+## >> [Download Here](https://1drv.ms/t/s!Av1xdYVmnDiphDVp6P3dBvX_8Akg?e=meVga4) <<
+
 Sorted and compile into one for [dirsearch](https://github.com/maurosoria/dirsearch)
 
 `python3 ~/dirsearch/dirsearch.py -u domain.tld -t 200 -e * -w newlist.txt --plain-text-report output.txt`
