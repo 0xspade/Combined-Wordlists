@@ -1,7 +1,7 @@
 # Combined-Wordlists
 A combined wordlists for files and directory discovery
 
-current count (TBE): 4,510,914
+current count (TBE): 4,510,964
 
 This a combined wordlist of:
 * [nullenc0de](https://gist.githubusercontent.com/nullenc0de/96fb9e934fc16415fbda2f83f08b28e7/raw/146f367110973250785ced348455dc5173842ee4/content_discovery_nullenc0de.txt)
@@ -9,6 +9,7 @@ This a combined wordlist of:
 * [Seclists Web Content](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
 * [web-fuzz-wordlist](https://github.com/kaimi-io/web-fuzz-wordlists)
 * [Predrag Cujanović](https://github.com/cujanovic/Content-Bruteforcing-Wordlist)
+* [Nahamsec](https://gist.githubusercontent.com/Leoid/38984017886cd058a314dfda5c3d6c6e/raw/1ee5fe1da82a3ae92b0c486f86fbe26bbdff1e06/Nahamsec%2520Thread)
 * dirb wordlist
 * dirbuster wordlist
 
