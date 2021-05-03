@@ -22,3 +22,7 @@ Sorted and compile into one for [dirsearch](https://github.com/maurosoria/dirsea
 of course, It will take time :D
 
 Credits all goes to this creators of this wordlists :)
+
+Free $100 in DigitalOcean, just click the link below :D
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=9d633afb889b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
